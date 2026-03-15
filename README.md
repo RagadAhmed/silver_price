@@ -25,11 +25,14 @@
   <a href="https://github.com/RagadAhmed/silver_price/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
   </a>
+  <a href="https://silverprice.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+  </a>
 </p>
 
 <p align="center">
+  <a href="#-live-demo">Live Demo</a> •
   <a href="#-features">Features</a> •
-  <a href="#-demo">Demo</a> •
   <a href="#-quick-start">Quick Start</a> •
   <a href="#-architecture">Architecture</a> •
   <a href="#-models">Models</a> •
@@ -43,6 +46,21 @@
 **Silver Price Forecaster** is a production-grade, AI-powered web application that extracts **5 years** of historical silver futures (SI=F) data from **Yahoo Finance**, performs comprehensive time-series analysis, and generates **1-year ahead price forecasts** using an ensemble of **Facebook Prophet** and **XGBoost** models — all wrapped in a sleek, interactive Streamlit dashboard.
 
 > 💡 *Designed for data scientists, traders, and financial analysts who need reliable, low-RMSE silver price predictions with full transparency into model performance.*
+
+---
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://silverprice.streamlit.app/">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  👉 <strong><a href="https://silverprice.streamlit.app/">https://silverprice.streamlit.app/</a></strong><br/>
+  <sub>No installation required — try it directly in your browser!</sub>
+</p>
 
 ---
 
