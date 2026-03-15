@@ -321,9 +321,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
   <a href="https://github.com/RagadAhmed">
     <img src="https://img.shields.io/badge/GitHub-RagadAhmed-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:3214fa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-3214fa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
